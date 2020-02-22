@@ -8,8 +8,14 @@ descriptions:
 
 this proyect is based in the implement 
 
-
+set result conflict in merge data
 
 this finish that document
 
+
+
+
 create new branch
+
+another more, for testing
+
